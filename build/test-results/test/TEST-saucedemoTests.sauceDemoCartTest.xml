@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="saucedemoTests.sauceDemoCartTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-28T07:22:08" hostname="ostap" time="19.848">
+  <properties/>
+  <testcase name="testAddingAndRemoveFromCart" classname="saucedemoTests.sauceDemoCartTest" time="12.894"/>
+  <testcase name="testBuyingProcedure" classname="saucedemoTests.sauceDemoCartTest" time="4.769"/>
+  <testcase name="testRedirect" classname="saucedemoTests.sauceDemoCartTest" time="1.9"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 1520
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Mar 28, 2021 10:22:13 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

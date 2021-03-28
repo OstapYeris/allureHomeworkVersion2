@@ -1,0 +1,8 @@
+pages/GoogleSearchPage.java
+ pages.GoogleSearchPage
+pages/BasePage.java
+ pages.BasePage
+sauceDemo/sauceDemo.java
+ sauceDemo.sauceDemo
+utils/AllureProperties.java
+ utils.AllureProperties
